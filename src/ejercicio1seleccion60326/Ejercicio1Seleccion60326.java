@@ -48,6 +48,7 @@ public class Ejercicio1Seleccion60326 {
             else{
                 System.out.println(" El mayor numero escrito es de: " + tercernum);
             }
+        
     }
     
 }
